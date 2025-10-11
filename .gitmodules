@@ -1,0 +1,3 @@
+[submodule "build/extensions"]
+	path = build/extensions
+	url = https://github.com/TurboWarp/extensions.git
